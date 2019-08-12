@@ -1,1 +1,2 @@
-print(6*8)
+x= 19
+print(x)
